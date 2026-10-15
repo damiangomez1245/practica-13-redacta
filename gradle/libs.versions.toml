@@ -19,6 +19,7 @@ barcodeScanning = "17.3.0"
 coroutinesPlayServices = "1.10.2"
 junit = "4.13.2"
 litertlm = "0.18.0"
+coroutinesTest = "1.11.0"
 
 
 [libraries]
@@ -50,6 +51,7 @@ kotlinx-coroutines-play-services = { group = "org.jetbrains.kotlinx", name = "ko
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 okhttp-mockwebserver = { group = "com.squareup.okhttp3", name = "mockwebserver", version.ref = "okhttp" }
 litertlm-android = { group = "com.google.ai.edge.litertlm", name = "litertlm-android", version.ref = "litertlm" }
+kotlinx-coroutines-test = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-test", version.ref = "coroutinesTest" }
 
 
 
